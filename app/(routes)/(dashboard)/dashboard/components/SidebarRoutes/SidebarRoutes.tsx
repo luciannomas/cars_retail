@@ -33,7 +33,6 @@ export function SidebarRoutes() {
 
       <div>
         <Separator />
-
         <footer className="p-3 mt-3 text-center">
           2024. All rights reserved
         </footer>
